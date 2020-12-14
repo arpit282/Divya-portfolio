@@ -1,0 +1,141 @@
+*{
+  margin: 0px;
+  padding: 0px;
+
+  text-align:center;
+}
+
+/* This was your code */
+
+/* .class-1{
+  padding: 20px;
+  margin:100px;
+  width:100%;
+  height: 100%;
+  min-height: 500px;
+  margin: 30px;
+} */
+
+
+/* This is the new one */
+
+.class-1{
+  width: 100wh;
+  height: 50vh;
+  align-content: flex-start;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+
+#main{
+ float: right;
+}
+.fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 150px 15px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-github{
+  background:white;
+  color: black;
+}
+.fa-envelope {
+  background: white;
+  color: black;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+/* .main{
+  text-decoration-color: transparent;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: 0 0 0 0;
+} */
+#about{
+  width: 50%;
+}
+#info{
+  margin: 80px 30px ;
+}
+#list{
+  max-width: 550px;;
+  margin: 0 auto 50px auto;
+  text-align: right;
+}
+header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+  left: 0;
+}
+.button {
+    background-color: rgb(112, 130, 235);
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+  
+  .button:hover {
+    background-color: #f1f1f1;
+  }
+#contact{
+  background-color: black;
+ margin: 80px;
+}
+
+/* I comented this as the consistency was not coming  */
+
+
+/* #blog{
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%;
+  min-height: 500px;
+} */
+ #end{
+ 
+   padding: 20px;
+   color: cornsilk;
+   background-color: black;
+ } 
+ .icon{
+   text-align: center;
+   margin-top: auto;
+   margin-bottom: auto;
+   min-height: 500px;
+ }
+  footer{
+   padding: 50px;
+  }
